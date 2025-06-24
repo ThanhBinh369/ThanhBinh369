@@ -24,17 +24,15 @@
 ## <img src="https://i.pinimg.com/originals/55/8a/6e/558a6e9a92fcff4638d2dba33705e25e.gif" width="35"> **About Me**
 
 ```typescript
-const Long = {
+const Binh = {
     location: "Ho Chi Minh City, Vietnam 🇻🇳",
-    currentFocus: ["Building scalable applications", "Cloud infrastructure", "Data analytics"],
+    currentFocus: ["Data Engineer ", "Data analytics"],
     technologies: {
-        backend: ["C# .NET", "Python", "Node.js"],
-        database: ["SQL Server", "MySQL", "Data Mining"],
-        cloud: ["AWS", "Google Cloud", "Cloudflare"],
-        tools: ["Docker", "Nginx", "Ubuntu", "VS Code"]
+        backend: ["C# .NET", "Python", "Java"],
+        database: ["SQL Server", "MySQL"],
+        cloud: ["AWS"]
     },
-    currentChallenge: "Building microservices with cloud-native technologies",
-    funFact: "I debug code faster than I debug my life 😄"
+    funFact: "Night owl, Panda eyes 😄"
 };
 ```
 
