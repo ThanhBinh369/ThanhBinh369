@@ -15,7 +15,7 @@
 
 ---
 
-## <img src="[[https://image.myanimelist.net/ui/gDEE1QGHMmMAOJRb4Q-ehqF7ckhcVAUyzogC6VP5vLR4ILIAHotU84aGAV_ihyEjUE7hToGq7Qf4W4nsPugrgp-44K87QbbXDRU6qzb7SDw1u8zz8srGrKBe5Yk39GZH](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F610660030714610856%2F&psig=AOvVaw3FxBOTMrfUBRNTaDgs7Yvf&ust=1750861676318000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCICWsp2iio4DFQAAAAAdAAAAABAz)](https://gifdb.com/images/high/anime-shy-menhera-chan-hiding-hi-m20fc3527q5m7xyq.webp)" width="50"> **About Me**
+## <img src="https://gifdb.com/images/high/anime-shy-menhera-chan-hiding-hi-m20fc3527q5m7xyq.webp" width="50"> **About Me**
 
 ```typescript
 const Long = {
