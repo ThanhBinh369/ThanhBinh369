@@ -10,7 +10,7 @@
 <br>
 
 <div align="center">
-  <img src="https://imarticus.org/blog/wp-content/uploads/2019/05/daonline.gif" alt="Coding Animation" width="500"/>
+  <img src="https://imarticus.org/blog/wp-content/uploads/2019/05/daonline.gif" alt="Coding Animation" width="700"/>
 </div>
 
 ---
