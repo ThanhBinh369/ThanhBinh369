@@ -15,7 +15,7 @@
 
 ---
 
-## <img src="https://gifdb.com/images/high/anime-shy-menhera-chan-hiding-hi-m20fc3527q5m7xyq.webp" width="50"> **About Me**
+## <img src="https://shopgarena.net/wp-content/uploads/2022/08/Hinh-dong-Lien-Quan-chibi-xinh-xan.gif" width="35"> **About Me**
 
 ```typescript
 const Long = {
