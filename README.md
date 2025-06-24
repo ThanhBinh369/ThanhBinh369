@@ -21,7 +21,7 @@
 
 ---
 
-## <img src="https://shopgarena.net/wp-content/uploads/2022/08/Hinh-dong-Lien-Quan-chibi-xinh-xan.gif" width="35"> **About Me**
+## <img src="https://i.pinimg.com/originals/55/8a/6e/558a6e9a92fcff4638d2dba33705e25e.gif" width="35"> **About Me**
 
 ```typescript
 const Long = {
