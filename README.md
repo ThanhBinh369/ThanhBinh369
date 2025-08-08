@@ -77,7 +77,7 @@ const Binh = {
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" title="SQL Server" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" title="MySQL" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" title="Pandas" />
-  <img src="https://img.shields.io/badge/Data_Mining-FF6B6B?style=for-the-badge&logo=databricks&logoColor=white" title="Data Mining" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" title="NumPy" />
 </p>
 
 </div>
