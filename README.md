@@ -51,6 +51,7 @@ const Binh = {
   <img src="https://skillicons.dev/icons?i=html" title="HTML" />
   <img src="https://skillicons.dev/icons?i=css" title="CSS" />
   <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" />
+  <img src="https://skillicons.dev/icons?i=java" title="Java" />
 </p>
 
 ### ☁️ **Cloud & Infrastructure**
@@ -59,11 +60,6 @@ const Binh = {
   <img src="https://files.svgcdn.io/logos/aws-ec2.png" width="48" height="48" title="AWS EC2" />
   <img src="https://media2.dev.to/dynamic/image/width=1080,height=1080,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fip7ork2m951siwgpkety.png" width="48" height="48" title="AWS S3" />
   <img src="https://miro.medium.com/v2/resize:fit:512/1*Zc-KGvvjhdUZGSkanonAeA.png" width="48" height="48" title="AWS RDS" />
-  <img src="https://skillicons.dev/icons?i=gcp" title="Google Cloud Platform" />
-  <img src="https://skillicons.dev/icons?i=cloudflare" title="Cloudflare" />
-  <img src="https://skillicons.dev/icons?i=docker" title="Docker" />
-  <img src="https://skillicons.dev/icons?i=nginx" title="Nginx" />
-  <img src="https://skillicons.dev/icons?i=ubuntu" title="Ubuntu" />
 </p>
 
 ### 🛠️ **Development Tools**
@@ -71,8 +67,9 @@ const Binh = {
   <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" />
   <img src="https://skillicons.dev/icons?i=visualstudio" title="Visual Studio" />
   <img src="https://skillicons.dev/icons?i=github" title="GitHub" />
-  <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" />
-  <img src="https://skillicons.dev/icons?i=firebase" title="Firebase" />
+  <img src="https://skillicons.dev/icons?i=eclipse" title="Eclipse" />
+   <img src="https://skillicons.dev/icons?i=pycharm" title="Pycharm" />
+  
 </p>
 
 ### 📊 **Data & Analytics**
