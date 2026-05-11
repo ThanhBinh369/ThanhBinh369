@@ -56,12 +56,10 @@ const Binh = {
 </p>
 
 ### ☁️ **Cloud & Infrastructure**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=aws" title="AWS" height="48" />
-  <img src="https://files.svgcdn.io/logos/aws-ec2.png" width="48" height="48" title="AWS EC2" />
-  <img src="https://media2.dev.to/dynamic/image/width=1080,height=1080,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fip7ork2m951siwgpkety.png" width="48" height="48" title="AWS S3" />
-  <img src="https://miro.medium.com/v2/resize:fit:512/1*Zc-KGvvjhdUZGSkanonAeA.png" width="48" height="48" title="AWS RDS" />
-</p>
+
+| AWS | EC2 | S3 | RDS |
+|-----|-----|----|-----|
+| <img src="https://skillicons.dev/icons?i=aws" width="48" title="AWS" /> | <img src="https://files.svgcdn.io/logos/aws-ec2.png" width="48" title="AWS EC2" /> | <img src="https://files.svgcdn.io/logos/aws-s3.png" width="48" title="AWS S3" /> | <img src="https://files.svgcdn.io/logos/aws-rds.png" width="48" title="AWS RDS" /> |
 
 ### 🛠️ **Development Tools**
 <p>
