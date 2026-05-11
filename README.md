@@ -30,7 +30,7 @@ const Binh = {
     technologies: {
         backend: ["C# .NET", "Python", "Java"],
         database: ["SQL Server", "MySQL"],
-        cloud: ["AWS"]
+        cloud: ["AWS"],
         data visualization: ["Power BI", "Python"]
     },
     funFact: "Night owl, Panda eyes 😄"
