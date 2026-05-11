@@ -44,16 +44,10 @@ const Binh = {
 <div align="center">
 
 ### 💻 **Programming Languages**
-<p>
-  <img src="https://skillicons.dev/icons?i=python" title="Python" />
-  <img src="https://skillicons.dev/icons?i=cs" title="C#" />
-  <img src="https://skillicons.dev/icons?i=cpp" title="C++" />
-  <img src="https://skillicons.dev/icons?i=js" title="JavaScript" />
-  <img src="https://skillicons.dev/icons?i=html" title="HTML" />
-  <img src="https://skillicons.dev/icons?i=css" title="CSS" />
-  <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" />
-  <img src="https://skillicons.dev/icons?i=java" title="Java" />
-</p>
+
+| Python | C# | C++ | JavaScript | HTML | CSS | MySQL | Java |
+|--------|-----|-----|-----------|------|-----|-------|------|
+| <img src="https://skillicons.dev/icons?i=python" width="48" title="Python" /> | <img src="https://skillicons.dev/icons?i=cs" width="48" title="C#" /> | <img src="https://skillicons.dev/icons?i=cpp" width="48" title="C++" /> | <img src="https://skillicons.dev/icons?i=js" width="48" title="JavaScript" /> | <img src="https://skillicons.dev/icons?i=html" width="48" title="HTML" /> | <img src="https://skillicons.dev/icons?i=css" width="48" title="CSS" /> | <img src="https://skillicons.dev/icons?i=mysql" width="48" title="MySQL" /> | <img src="https://skillicons.dev/icons?i=java" width="48" title="Java" /> |
 
 ### ☁️ **Cloud & Infrastructure**
 
@@ -62,22 +56,16 @@ const Binh = {
 | <img src="https://skillicons.dev/icons?i=aws" width="48" title="AWS" /> | <img src="https://files.svgcdn.io/logos/aws-ec2.png" width="48" title="AWS EC2" /> | <img src="https://files.svgcdn.io/logos/aws-s3.png" width="48" title="AWS S3" /> | <img src="https://files.svgcdn.io/logos/aws-rds.png" width="48" title="AWS RDS" /> |
 
 ### 🛠️ **Development Tools**
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" />
-  <img src="https://skillicons.dev/icons?i=visualstudio" title="Visual Studio" />
-  <img src="https://skillicons.dev/icons?i=github" title="GitHub" />
-  <img src="https://skillicons.dev/icons?i=eclipse" title="Eclipse" />
-   <img src="https://skillicons.dev/icons?i=pycharm" title="Pycharm" />
-  
-</p>
+
+| VS Code | Visual Studio | GitHub | Eclipse | PyCharm |
+|---------|--------------|--------|---------|---------|
+| <img src="https://skillicons.dev/icons?i=vscode" width="48" title="VS Code" /> | <img src="https://skillicons.dev/icons?i=visualstudio" width="48" title="Visual Studio" /> | <img src="https://skillicons.dev/icons?i=github" width="48" title="GitHub" /> | <img src="https://skillicons.dev/icons?i=eclipse" width="48" title="Eclipse" /> | <img src="https://skillicons.dev/icons?i=pycharm" width="48" title="PyCharm" /> |
 
 ### 📊 **Data & Analytics**
-<p>
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" title="SQL Server" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" title="MySQL" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" title="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" title="NumPy" />
-</p>
+
+| SQL Server | MySQL | Pandas | NumPy |
+|-----------|-------|--------|-------|
+| <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" title="SQL Server" /> | <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" title="MySQL" /> | <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" title="Pandas" /> | <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" title="NumPy" /> |
 
 </div>
 
