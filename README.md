@@ -31,6 +31,7 @@ const Binh = {
         backend: ["C# .NET", "Python", "Java"],
         database: ["SQL Server", "MySQL"],
         cloud: ["AWS"]
+        data visualization: ["Power BI", "Python"]
     },
     funFact: "Night owl, Panda eyes 😄"
 };
